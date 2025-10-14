@@ -4,11 +4,11 @@
 	}
 	
 	h1{
-		caption-side: bottom;
 	}
 
 	p{
-	text-align: center;
+		caption-side: top;
+		text-align: center;
 	}
 
 	img{
