@@ -14,10 +14,11 @@
 	img{
 		width: 600px;
 		height: 600px;
+		.container: imagem;
 	}
 	
 	.imgindex{
-		
+	
 	}
 	
 	#principal {
