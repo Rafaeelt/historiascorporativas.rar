@@ -16,6 +16,9 @@
 	img {
 		width: 600px;
 		height: 600px;
+		margin: auto;
+		display: block;
+		border-radius: 8px;
 	}
 
 	.imgindex {}
