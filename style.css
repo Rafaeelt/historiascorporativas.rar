@@ -44,11 +44,10 @@
 		color: darkblue;
 	}
 
-	button{
+	.botao {
 		padding: 10px;
 		background-color: rgb(218, 247, 175);
 		font-size: 17px;
 		width: 200px;
-		display: block;
-		margin:  auto;
+		text-align: center;
 	}
