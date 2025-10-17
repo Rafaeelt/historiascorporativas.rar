@@ -20,3 +20,7 @@
 	.imgindex {}
 
 	#principal {}
+
+	li a{
+		text-decoration: none;
+	}
