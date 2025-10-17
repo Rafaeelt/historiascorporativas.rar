@@ -1,25 +1,22 @@
 	body {
-	background-color:yellow ;
-
+		background-color: rgb(247, 247, 226);
+		margin: 0px;
+		padding: 0px;
 	}
-	
-	h1{
+
+	h1 {
 		text-align: center;
 	}
 
-	p{
+	p {
 		text-align: center;
 	}
 
-	img{
+	img {
 		width: 600px;
 		height: 600px;
 	}
-	
-	.imgindex{
-	
-	}
-	
-	#principal {
-		
-	}
+
+	.imgindex {}
+
+	#principal {}
