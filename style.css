@@ -37,7 +37,7 @@
 		list-style-type: none;
 	}
 
-	a:hover{
+	ul li a:hover{
 		line-height: 2.0;
 		font-size: 24px;
 		font-weight: bolder;
