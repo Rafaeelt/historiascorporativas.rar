@@ -43,3 +43,10 @@
 		font-weight: bolder;
 		color: darkblue;
 	}
+
+	button{
+		background-color: rgb(218, 247, 175);
+		font-size: 17px;
+		width: 200px;
+		
+	}
