@@ -47,7 +47,8 @@
 	.botao {
 		padding: 10px;
 		background-color: rgb(218, 247, 175);
-		font-size: 17px;
+		font-size: 22px;
+		font-weight: 400;
 		width: 200px;
 		text-align: center;
 	}
